@@ -21,8 +21,17 @@ Remember these are just suggestions you don't have to copy these layouts 1-1 but
 
 ## Easy
 ![image](https://user-images.githubusercontent.com/45432721/184022176-fbe80596-9233-4453-b8c5-e38d84c2267e.png)
+
+or
+
 ![image](https://user-images.githubusercontent.com/45432721/184022304-e4d576d9-e657-4ee9-87ee-344465e44f60.png)
+
+or
+
 ![image](https://user-images.githubusercontent.com/45432721/184023303-4b244a54-e5ae-4f74-a71f-4ee1d5292120.png)
+
+or
+
 ![image](https://user-images.githubusercontent.com/45432721/184023430-9d9903f6-c11e-4291-a70f-b92090e8dd2b.png)
 
 ## Medium
@@ -31,14 +40,26 @@ Remember these are just suggestions you don't have to copy these layouts 1-1 but
 
 ## Hard
 ![image](https://user-images.githubusercontent.com/45432721/184023666-dc5ed24b-861e-466a-9420-7beee94d8d1d.png)
+
+or
+
 ![image](https://user-images.githubusercontent.com/45432721/184023596-79355853-2be9-417b-8679-ab05623bdfcc.png)
+
+or
+
 ![image](https://user-images.githubusercontent.com/45432721/184023971-d2237d35-5f50-44da-b87b-5334ec98c75f.png)
 
 # Resources
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - Flexbox reference
+
 https://css-tricks.com/snippets/css/complete-guide-grid/ - Grid reference
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout - MDN guide on grid basics
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox - MDN guide on flexbox basics
+
 https://gridbyexample.com/ - grid implementation examples
+
 https://tobiasahlin.com/blog/common-flexbox-patterns/ - common flexbox implementations
+
 https://philipwalton.github.io/solved-by-flexbox/ - common layout problems solved by flexbox
